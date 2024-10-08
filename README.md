@@ -1,8 +1,3 @@
-# Amazon_Prime_DSHB
-Here is a README template for your Power BI dashboard on GitHub, explaining its components and purpose in English:
-
----
-
 # Prime Video Data Analysis Dashboard
 
 This repository contains a Power BI dashboard that provides an in-depth analysis of Prime Video's content, including both movies and TV shows, using data exported from an Excel file.
