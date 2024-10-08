@@ -60,10 +60,4 @@ The data used in this dashboard was sourced from an Excel file and has been inte
 
 This dashboard provides a comprehensive analysis of Prime Video's content, making it easier to understand trends in genres, ratings, and production over time. It can be a valuable tool for stakeholders looking to gain insights into the platform's offerings.
 
-## Feedback
 
-If you have any suggestions or feedback, please feel free to open an issue or submit a pull request.
-
----
-
-This README provides a clear explanation of your Power BI dashboard, its features, and how others can use it. Let me know if you need any adjustments!
